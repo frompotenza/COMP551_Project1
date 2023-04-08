@@ -1,0 +1,4 @@
+# COMP551_Project1
+Project for COMP 551 (Applied Machine Learning) course at McGill
+This is an Assignment for course COMP 551 (Applied Machine Learning) at McGill University. For this assignment, we developed a logistic regression and a linear regression models to explore two datasets (one about energy consumption and the other about risk of bankruptcy for businesses).
+Note 1: the links for the dataset are in the report file.
